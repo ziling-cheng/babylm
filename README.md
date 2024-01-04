@@ -1,5 +1,5 @@
 ## McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases
-This repository contains the code for the paper published in Proceedings of the BabyLM Challenge at the 27th CoNLL.
+This repository contains the code for the paper published in Proceedings of the BabyLM Challenge at CoNLL 2023.
 
 We also release the datasets and models on the [HuggingFace Hub](https://huggingface.co/mcgill-babylm).
 
